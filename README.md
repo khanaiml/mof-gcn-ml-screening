@@ -100,11 +100,11 @@ physics-rule baselines by **+27.6 percentage points** at the structure level:
 
 ## Repository Structure
 
-├── data/ # Dataset integration (QMOF + CoRE-MOF) — see Data section
-├── notebooks/ # Feature engineering, training, screening, SHAP analysis
-├── results/ # Paper figures and output tables
-├── requirements.txt
-└── README.md
+├── data/ # Dataset integration (QMOF + CoRE-MOF) — see Data section <br>
+├── notebooks/ # Feature engineering, training, screening, SHAP analysis<br>
+├── results/ # Paper figures and output tables<br>
+├── requirements.txt<br>
+└── README.md<br>
 
 
 ## Data
