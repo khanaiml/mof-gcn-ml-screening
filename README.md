@@ -150,7 +150,6 @@ Run the notebooks in pipeline order; each states its inputs and outputs at the t
 **Abdullah Khan** — abdullahkhan.prof@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-36454F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrabdullahkhan)
-[![GitHub](https://img.shields.io/badge/GitHub-36454F?style=flat-square&logo=github&logoColor=white)](https://github.com/khanaiml)
 [![Kaggle](https://img.shields.io/badge/Kaggle-36454F?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdullahkhan161101)
 
 </div>
