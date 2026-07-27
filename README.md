@@ -30,7 +30,7 @@ feature engineering → Random Forest + XGBoost consensus ensemble → SHAP
 interpretability → hybrid Physics–ML screening cascade
 
 <div align="center">
-<img src="results/volcano_plot_filtered.png" width="70%" alt="Screening criteria volcano plot">
+<img src="results/volcano_plot_filtered.pdf" width="70%" alt="Screening criteria volcano plot">
 </div>
 
 ## Key Results
