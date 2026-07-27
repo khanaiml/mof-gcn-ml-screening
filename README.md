@@ -71,7 +71,7 @@ dominant compatibility factors:
 
 <div align="center">
 <img src="results/random_forest_shap_summary.png" width="46%" alt="Random Forest SHAP summary">
-<img src="results/xgb_shap_summary.png" width="46%" alt="XGBoost SHAP summary">
+<img src="results/xgboost_shap_summary.png" width="46%" alt="XGBoost SHAP summary">
 </div>
 
 <details>
