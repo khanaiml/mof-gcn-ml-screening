@@ -14,7 +14,7 @@
 </div>
 
 > [!NOTE]
-> 📄 Published in the **Chinese Journal of Physics** — Q1 (Physics, Multidisciplinary) · Impact Factor **5.3** · CiteScore **7.9**
+> 📄 Proofing Stage in the **Chinese Journal of Physics** — Q1 (Physics, Multidisciplinary) · Impact Factor **5.3** · CiteScore **7.9**
 > DOI: [10.1016/j.cjph.2026.07.025](https://doi.org/10.1016/j.cjph.2026.07.025)
 
 > [!IMPORTANT]
