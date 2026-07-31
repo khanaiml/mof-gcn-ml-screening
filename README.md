@@ -14,7 +14,7 @@
 </div>
 
 > [!NOTE]
-> 📄 Proofing Stage in the **Chinese Journal of Physics** — Q1 (Physics, Multidisciplinary) · Impact Factor **5.3** · CiteScore **7.9**
+> 📄 Accepted / In Press — Chinese Journal of Physics · Q1 (Physics, Multidisciplinary) · IF 5.3 · CiteScore 7.9
 > DOI: [10.1016/j.cjph.2026.07.025](https://doi.org/10.1016/j.cjph.2026.07.025)
 
 > [!IMPORTANT]
@@ -105,6 +105,7 @@ physics-rule baselines by **+27.6 percentage points** at the structure level:
 ├── results/ # Paper figures and output tables<br>
 ├── requirements.txt<br>
 └── README.md<br>
+<i>Open Revised_Source_Code.ipynb (or Research source code.ipynb) and run the cells in order; each section states its inputs and outputs at the top.<i>
 
 
 ## Data
@@ -121,7 +122,6 @@ Original data sources (both CC-BY-4.0):
 ```bash
 git clone https://github.com/khanaiml/mof-gcn-ml-screening.git
 cd mof-gcn-ml-screening
-pip install -r requirements.txt
 ```
 
 Run the notebooks in pipeline order; each states its inputs and outputs at the top.
