@@ -14,7 +14,7 @@
 </div>
 
 > [!NOTE]
-> 📄 Accepted / In Press — Chinese Journal of Physics · Q1 (Physics, Multidisciplinary) · IF 5.3 · CiteScore 7.9
+> 📄 PUblished — Chinese Journal of Physics · Q1 (Physics, Multidisciplinary) · IF 5.3 · CiteScore 7.9
 > DOI: [10.1016/j.cjph.2026.07.025](https://doi.org/10.1016/j.cjph.2026.07.025)
 
 > [!IMPORTANT]
